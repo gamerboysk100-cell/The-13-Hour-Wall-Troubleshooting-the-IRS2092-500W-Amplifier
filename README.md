@@ -6,22 +6,29 @@ Here is a breakdown of the build, the struggle, and the hard-earned lessons from
 <img width="1080" height="537" alt="Screenshot_20260513-214427" src="https://github.com/user-attachments/assets/70328fbe-ce67-486b-a616-8153356a2bc4" />
 
 The Goal: Compact, High-Efficiency Power
-The heart of this project is the IRS2092S, a protected Class D audio amplifier driver. When paired with high-speed MOSFETs and a well-wound inductor, it is capable of delivering half a kilowatt of power with incredible efficiency.
+The heart of this project is the IRS2092S, a protected Class D audio amplifier driver. 
+When paired with high-speed MOSFETs and a well-wound inductor,
+it is capable of delivering half a kilowatt of power with incredible efficiency.
 <img width="888" height="467" alt="Screenshot_20260513-214335" src="https://github.com/user-attachments/assets/c95d747a-f6e9-4e4e-b8c9-15fa628bc6c1" />
 
 The Build Process
-The assembly was done using high-quality SMT components to keep the footprint small. For a circuit this complex, precision is everything:
+The assembly was done using high-quality SMT components to keep the footprint small.
+For a circuit this complex, precision is everything:
 PCB Design: A professional 2-layer board was used to handle the high current and fast switching speeds.
 <img width="1080" height="585" alt="Screenshot_20260513-221333" src="https://github.com/user-attachments/assets/18c0dfd5-2a15-496e-aa44-b93ba3b022fc" />
 
 Link: I Order my PCB from JLCPCB, Track Your JLCPCB Orders and Shipments with JLCONE (Desktop or Mobile App) Download Here: https://jlcpcb.com/download?from=JLA
 
+
 <img width="1080" height="594" alt="Screenshot_20260513-214959" src="https://github.com/user-attachments/assets/538eaad2-57ae-4e33-8c2e-117e3bb42741" />
 <img width="1909" height="1080" alt="Screenshot_20260513-214040" src="https://github.com/user-attachments/assets/1c699dac-758f-497c-a9a6-001140d477e8" />
 
 
-Component Sourcing: Low-ESR capacitors and high-speed MOSFETs were selected to handle the 500W load.
-The Inductor: A critical component in Class D, wound carefully to ensure it wouldn't saturate under load.
+Component Sourcing: Low-ESR capacitors 
+high-speed MOSFETs were selected to handle the 500W load.
+The Inductor: A critical component in Class D, 
+wound carefully to ensure it wouldn't saturate under load.
+
 <img width="1080" height="537" alt="Screenshot_20260513-214427" src="https://github.com/user-attachments/assets/b9013df5-9191-4424-b7c9-14d7a5b61549" />
 
 Where the 13 Hours Went
